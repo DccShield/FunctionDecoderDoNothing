@@ -1,3 +1,14 @@
+//--------------------------------------------------------------------------------
+// DCC Smile Function Decoder Do Nothing
+// DCC信号を受信するだけで何もしないデコーダ
+// [DccCV.H]
+// Copyright (c) 2020 Ayanosuke(Maison de DCC) / Desktop Station
+// https://desktopstation.net/bb/index.php
+//
+// This software is released under the MIT License.
+// http://opensource.org/licenses/mit-license.php
+//--------------------------------------------------------------------------------
+
 #ifndef _DccCV_h_
 #define _DccCV_h_
 
